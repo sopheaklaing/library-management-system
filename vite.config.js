@@ -10,5 +10,6 @@ export default defineConfig({
     allowedHosts: [
       'increases-figure-tomatoes-typing.trycloudflare.com', // no extra space
     ],
+    base: '/tailwindcss4-OOD-Book/'
   },
 });
