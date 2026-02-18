@@ -27,10 +27,19 @@ The system allows **students, staff, and administrators** to manage library acti
 - Fast and responsive interface using React
 
 ## Tech Stack
+### Frontend
 - React
 - Vite
 - JavaScript
-- CSS / Tailwind 
+- CSS / Tailwind
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- (MySQL / MongoDB)
+
 
 ## Getting Started
 
