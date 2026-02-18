@@ -1,8 +1,43 @@
 # React + Vite
+# Library Management System
+## Team Project Contribution
+This project was developed as a **team project**.  
+My main responsibility was the **frontend development**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### My Contributions
+- Designed and implemented the user interface using React
+- Created pages for Admin, Staff, and Student
+- Built responsive layouts and components
+- Connected frontend pages with backend APIs
+- Improved user experience and navigation
 
-Currently, two official plugins are available:
+This is a web-based **Library Management System** built with **React and Vite**.  
+The system allows **students, staff, and administrators** to manage library activities through different user pages.
+
+## Features
+- Separate pages for:
+  - Admin
+  - Staff
+  - Student
+- User authentication
+- Book management
+- Borrow and return system
+- Admin dashboard
+- CRUD operations for books and users
+- Fast and responsive interface using React
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS / Tailwind 
+
+## Getting Started
+
+First, install the dependencies:
+
+```bash
+npm install
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
